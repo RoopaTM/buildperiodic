@@ -9,5 +9,6 @@ public class Pollscm
 	 public void teststep1Test()
 	 {
 		 Reporter.log("test case pass");
+		 System.out.println("5");
 	 }
 }
