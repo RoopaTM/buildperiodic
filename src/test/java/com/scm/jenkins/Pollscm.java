@@ -8,6 +8,6 @@ public class Pollscm
 	@Test
 	 public void teststep1Test()
 	 {
-		 Reporter.log("test case pass");//m
+		 Reporter.log("test case pass");//my
 	 }
 }
